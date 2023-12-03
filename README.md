@@ -11,3 +11,6 @@ network explanations for PCNE and GCP network
 
 ![image](https://github.com/Damdev-95/gcp-network/assets/71001536/cd0737ff-93ea-4dd0-8173-8e392765c162)
 
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/a7ebc209-120a-4e8e-a13f-8a244bcd9012)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/6bf59fb0-c377-4cbf-855f-725f41c2527c)
