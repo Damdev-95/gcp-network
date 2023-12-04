@@ -14,3 +14,15 @@ network explanations for PCNE and GCP network
 ![image](https://github.com/Damdev-95/gcp-network/assets/71001536/a7ebc209-120a-4e8e-a13f-8a244bcd9012)
 
 ![image](https://github.com/Damdev-95/gcp-network/assets/71001536/6bf59fb0-c377-4cbf-855f-725f41c2527c)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/cb47a3f5-e4a7-469e-8c4c-5bd180ded5e5)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/6a1bf98a-5cad-4706-96ca-8fa1d332cf63)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/a8166969-a66d-4ca0-96de-c55c7fe3c224)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/d97b853d-ccd5-4f79-bc32-7aadccfc847c)
+
+
+
+
