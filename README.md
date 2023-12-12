@@ -25,5 +25,37 @@ network explanations for PCNE and GCP network
 
 ![image](https://github.com/Damdev-95/gcp-network/assets/71001536/f28dfb47-54ed-4485-9032-354180bc1b85)
 
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/060f4c4f-f33b-48d1-8a8e-675f36869b58)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/a7a1fe14-5159-482b-9a1d-da6b0051b6f3)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/372f24e5-72a8-4304-857e-07a68aa8f612)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/91b3f401-4532-4f3b-acad-6c277234a76c)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/8508c691-a2df-4cce-b01f-16345cb73a73)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/380f6450-e4d5-46fd-bfd5-2c623543a20d)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/2f2fa75c-b9d9-4e08-9a2c-5081f4e26128)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/e7b3df54-9fc6-4f30-a8f9-dab3669fcdb7)
+
+## wget https://storage.googleapis.com/acg-gcp-labs-resources/network-engineer/cloud-armor-lab-setup.sh
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/87ed8b83-f227-4bd3-a302-6f345287e75e)
+
+![image](https://github.com/Damdev-95/gcp-network/assets/71001536/b2bcbf7c-9441-4c97-9685-abc495e18830)
+
+
+
+
+
+
+
+
+
+
+
 
 
